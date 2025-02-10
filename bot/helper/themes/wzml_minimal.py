@@ -19,7 +19,7 @@ class WZMLStyle:
 <b>Type {help_command} to get a list of available commands</b>'''
     ST_BOTPM = '''<i>Now, This bot will send all your files and links here. Start Using ...\nUse our <a href=https://t.me/+ufeLiTS6AvNkNjZl>Leech Group</a> to download/leech your stuff\n\n👨‍💻 Devloper : @metaUi | Update : @PythonBotz</i>
   
-    </i>'''
+    '''
     ST_UNAUTH = '''<i>You Are not authorized user!
     Use Our <a href=https://t.me/+ufeLiTS6AvNkNjZl>Leech Group</a>\n\n👨‍💻 Devloper : @metaUi | Update : @PythonBotz</i>'''
     OWN_TOKEN_GENERATE = '''<b>Temporary Token is not yours!</b>\n\n<i>Kindly generate your own.</i>'''
