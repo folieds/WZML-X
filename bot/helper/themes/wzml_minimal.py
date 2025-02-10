@@ -6,10 +6,20 @@ class WZMLStyle:
     ST_BN1_URL = 't.me/pythonbotz'
     ST_BN2_NAME = 'Support'
     ST_BN2_URL = 'https://t.me/offchats'
-    ST_MSG = '''<i>This bot can mirror all your links|files|torrents to Google Drive or any rclone cloud or to telegram or to ddl servers.</i>
+    ST_MSG = '''<b>@Luffyleech is here to help you download your favorite contents from <u>Terabox|Mega|Cornhub.</u></b>
+┠ /leech terabox_or_mega_url
+┖ /ytdlleech cornhub_url
+
+⌬ Features :
+┠ Download Bulk Links
+┠ Custom Thumbnail
+┠ Custom Caption
+┠ Direct Upload To Other Chats
+┖ <a href=t.me/luffyLeech>Luffy Leech</a>\n
 <b>Type {help_command} to get a list of available commands</b>'''
     ST_BOTPM = '''<i>Now, This bot will send all your files and links here. Start Using ...</i>'''
-    ST_UNAUTH = '''<i>You Are not authorized user! Deploy your own WZML-X Mirror-Leech bot</i>'''
+    ST_UNAUTH = '''<i>You Are not authorized user!
+    Use Our <a href=https://t.me/+ufeLiTS6AvNkNjZl>Leech Group</a>\n\n👨‍💻 Devloper : @metaUi | Update : @PythonBotz</i>'''
     OWN_TOKEN_GENERATE = '''<b>Temporary Token is not yours!</b>\n\n<i>Kindly generate your own.</i>'''
     USED_TOKEN = '''<b>Temporary Token already used!</b>\n\n<i>Kindly generate a new one.</i>'''
     LOGGED_PASSWORD = '''<b>Bot Already Logged In via Password</b>\n\n<i>No Need to Accept Temp Tokens.</i>'''
